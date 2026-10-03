@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-b4fd28a8f7.lzikun.cn/sitemap.xml
